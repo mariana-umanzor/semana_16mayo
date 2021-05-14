@@ -1,0 +1,14 @@
+{
+  "name": "mariana_consumirapi",
+  "version": "1.0.0",
+  "description": "consumir api para ver precio de bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariana Umanzor",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
